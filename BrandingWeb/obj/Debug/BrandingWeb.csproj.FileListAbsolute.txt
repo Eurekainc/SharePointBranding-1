@@ -1,0 +1,75 @@
+C:\Branding\BrandingWeb\bin\roslyn\csc.exe
+C:\Branding\BrandingWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Branding\BrandingWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Branding\BrandingWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Branding\BrandingWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Branding\BrandingWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Branding\BrandingWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Branding\BrandingWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Branding\BrandingWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Branding\BrandingWeb\bin\roslyn\vbc.exe
+C:\Branding\BrandingWeb\bin\roslyn\VBCSCompiler.exe
+C:\Branding\BrandingWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Branding\BrandingWeb\bin\BrandingWeb.dll.config
+C:\Branding\BrandingWeb\bin\BrandingWeb.dll
+C:\Branding\BrandingWeb\bin\BrandingWeb.pdb
+C:\Branding\BrandingWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Branding\BrandingWeb\bin\Microsoft.IdentityModel.dll
+C:\Branding\BrandingWeb\bin\Microsoft.IdentityModel.Extensions.dll
+C:\Branding\BrandingWeb\bin\Microsoft.SharePoint.Client.dll
+C:\Branding\BrandingWeb\bin\Microsoft.SharePoint.Client.Runtime.dll
+C:\Branding\BrandingWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Branding\BrandingWeb\bin\en\Microsoft.IdentityModel.resources.dll
+C:\Branding\BrandingWeb\obj\Debug\BrandingWeb.csprojResolveAssemblyReference.cache
+C:\Branding\BrandingWeb\obj\Debug\BrandingWeb.dll
+C:\Branding\BrandingWeb\obj\Debug\BrandingWeb.pdb
+C:\Users\armisenf\Documents\Visual Studio 2015\Projects\Branding\BrandingWeb\bin\roslyn\csc.exe
+C:\Users\armisenf\Documents\Visual Studio 2015\Projects\Branding\BrandingWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\armisenf\Documents\Visual Studio 2015\Projects\Branding\BrandingWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\armisenf\Documents\Visual Studio 2015\Projects\Branding\BrandingWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\armisenf\Documents\Visual Studio 2015\Projects\Branding\BrandingWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\armisenf\Documents\Visual Studio 2015\Projects\Branding\BrandingWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\armisenf\Documents\Visual Studio 2015\Projects\Branding\BrandingWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\armisenf\Documents\Visual Studio 2015\Projects\Branding\BrandingWeb\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\armisenf\Documents\Visual Studio 2015\Projects\Branding\BrandingWeb\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\armisenf\Documents\Visual Studio 2015\Projects\Branding\BrandingWeb\bin\roslyn\vbc.exe
+C:\Users\armisenf\Documents\Visual Studio 2015\Projects\Branding\BrandingWeb\bin\roslyn\VBCSCompiler.exe
+C:\Users\armisenf\Documents\Visual Studio 2015\Projects\Branding\BrandingWeb\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\armisenf\Documents\Visual Studio 2015\Projects\Branding\BrandingWeb\bin\BrandingWeb.dll.config
+C:\Users\armisenf\Documents\Visual Studio 2015\Projects\Branding\BrandingWeb\bin\BrandingWeb.dll
+C:\Users\armisenf\Documents\Visual Studio 2015\Projects\Branding\BrandingWeb\bin\BrandingWeb.pdb
+C:\Users\armisenf\Documents\Visual Studio 2015\Projects\Branding\BrandingWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\armisenf\Documents\Visual Studio 2015\Projects\Branding\BrandingWeb\bin\Microsoft.IdentityModel.Extensions.dll
+C:\Users\armisenf\Documents\Visual Studio 2015\Projects\Branding\BrandingWeb\bin\Microsoft.SharePoint.Client.dll
+C:\Users\armisenf\Documents\Visual Studio 2015\Projects\Branding\BrandingWeb\bin\Microsoft.SharePoint.Client.Runtime.dll
+C:\Users\armisenf\Documents\Visual Studio 2015\Projects\Branding\BrandingWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\armisenf\Documents\Visual Studio 2015\Projects\Branding\BrandingWeb\bin\Microsoft.SharePoint.Client.xml
+C:\Users\armisenf\Documents\Visual Studio 2015\Projects\Branding\BrandingWeb\bin\Microsoft.SharePoint.Client.Runtime.xml
+C:\Users\armisenf\Documents\Visual Studio 2015\Projects\Branding\BrandingWeb\obj\Debug\BrandingWeb.csprojResolveAssemblyReference.cache
+C:\Users\armisenf\Documents\Visual Studio 2015\Projects\Branding\BrandingWeb\obj\Debug\BrandingWeb.dll
+C:\Users\armisenf\Documents\Visual Studio 2015\Projects\Branding\BrandingWeb\obj\Debug\BrandingWeb.pdb
+E:\Projects\Noah\Branding\BrandingWeb\bin\roslyn\csc.exe
+E:\Projects\Noah\Branding\BrandingWeb\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Projects\Noah\Branding\BrandingWeb\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projects\Noah\Branding\BrandingWeb\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Projects\Noah\Branding\BrandingWeb\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Projects\Noah\Branding\BrandingWeb\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Projects\Noah\Branding\BrandingWeb\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Projects\Noah\Branding\BrandingWeb\bin\roslyn\System.Collections.Immutable.dll
+E:\Projects\Noah\Branding\BrandingWeb\bin\roslyn\System.Reflection.Metadata.dll
+E:\Projects\Noah\Branding\BrandingWeb\bin\roslyn\vbc.exe
+E:\Projects\Noah\Branding\BrandingWeb\bin\roslyn\VBCSCompiler.exe
+E:\Projects\Noah\Branding\BrandingWeb\bin\roslyn\VBCSCompiler.exe.config
+E:\Projects\Noah\Branding\BrandingWeb\bin\BrandingWeb.dll.config
+E:\Projects\Noah\Branding\BrandingWeb\bin\BrandingWeb.dll
+E:\Projects\Noah\Branding\BrandingWeb\bin\BrandingWeb.pdb
+E:\Projects\Noah\Branding\BrandingWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Projects\Noah\Branding\BrandingWeb\bin\Microsoft.IdentityModel.Extensions.dll
+E:\Projects\Noah\Branding\BrandingWeb\bin\Microsoft.SharePoint.Client.dll
+E:\Projects\Noah\Branding\BrandingWeb\bin\Microsoft.SharePoint.Client.Runtime.dll
+E:\Projects\Noah\Branding\BrandingWeb\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Projects\Noah\Branding\BrandingWeb\bin\Microsoft.SharePoint.Client.xml
+E:\Projects\Noah\Branding\BrandingWeb\bin\Microsoft.SharePoint.Client.Runtime.xml
+E:\Projects\Noah\Branding\BrandingWeb\obj\Debug\BrandingWeb.csprojResolveAssemblyReference.cache
+E:\Projects\Noah\Branding\BrandingWeb\obj\Debug\BrandingWeb.dll
+E:\Projects\Noah\Branding\BrandingWeb\obj\Debug\BrandingWeb.pdb

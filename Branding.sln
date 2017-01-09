@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Branding", "Branding\Branding.csproj", "{67330105-E294-4456-BBA0-ED5E4E78CCB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BrandingWeb", "BrandingWeb\BrandingWeb.csproj", "{21EF92FE-3339-4402-A34A-2461400AA164}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{67330105-E294-4456-BBA0-ED5E4E78CCB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67330105-E294-4456-BBA0-ED5E4E78CCB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67330105-E294-4456-BBA0-ED5E4E78CCB5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{67330105-E294-4456-BBA0-ED5E4E78CCB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67330105-E294-4456-BBA0-ED5E4E78CCB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67330105-E294-4456-BBA0-ED5E4E78CCB5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{21EF92FE-3339-4402-A34A-2461400AA164}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21EF92FE-3339-4402-A34A-2461400AA164}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21EF92FE-3339-4402-A34A-2461400AA164}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21EF92FE-3339-4402-A34A-2461400AA164}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://j00000scrttfs:8080/tfs/sharepointprojects
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Branding\\Branding.csproj
+		SccProjectName1 = Branding
+		SccLocalPath1 = Branding
+		SccProjectUniqueName2 = BrandingWeb\\BrandingWeb.csproj
+		SccProjectName2 = BrandingWeb
+		SccLocalPath2 = BrandingWeb
+	EndGlobalSection
+EndGlobal
